@@ -32,7 +32,7 @@ usage:
     
     adb shell
     
-5.	Inside the adb shell , run the following commands:
+5.	Inside the adb shell, (/sys/class/android_usb/android0/) , run the following commands:
 
     echo 0 > enable
     
